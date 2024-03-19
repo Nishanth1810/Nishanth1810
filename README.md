@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Nishanth Mariyappan</h1>
-<h3 align="center">Passionate DevOps Engineer | Cloud Enthusiast | IT Infrastructure | India 🚀</h3>
+<h3 align="center">Passionate DevOps Engineer | Cloud Enthusiast | Search Engine Optimization | India 🚀</h3>
 
 <p align="center">
   📫 How to reach me: **nishanthm1810@gmail.com**
