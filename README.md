@@ -103,7 +103,7 @@ Sonacube     2 mins          ░░░░░░░░░░░░░░░░░
 
 <p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="nishanth1810's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth1810&theme=react&border=61dafb" height="192px"/>
+    <img alt="nishanth1810's Streak" src="(https://github-readme-streak-stats.herokuapp.com?user=Nishanth%20Mariyappan?user=nishanth1810&theme=react&border=61dafb" height="192px"/>
   </a>
 </p>
 <br />
