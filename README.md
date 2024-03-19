@@ -91,4 +91,5 @@ Gradel       3 mins          ░░░░░░░░░░░░░░░░░
 Sonacube     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nishanth%20Mariyappan" alt="GitHub Streak" /></a>
 <br/><br/>
